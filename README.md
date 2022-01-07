@@ -6,5 +6,5 @@ Unity 2017.3.0
 
 ![img](Images/chroma_img.png)
 
-[Gameplay](Images/chroma_img.png)
+[Gameplay](Images/gameplay.mp4)
 
